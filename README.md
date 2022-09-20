@@ -1,5 +1,7 @@
-> **Note** right now only Nurbs path is implemented. Bezier should be similar but atm it is commented out since I haven't had the chance to test it. Contributions are appreciated.
-> **Note** This code is pretty messy right now. Any contributions would be appreciated.
+> **Note** 1 This code is fully functional but pretty messy right now. Any contributions would be appreciated.
+
+> **Note** 2 right now only Nurbs path is implemented. Bezier should be similar but atm it is commented out since I haven't had the chance to test it. Contributions are appreciated.
+
 
 # About
 
