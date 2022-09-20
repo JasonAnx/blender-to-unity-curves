@@ -1,13 +1,15 @@
-> **Note** 1 This code is fully functional but pretty messy right now. Any contributions would be appreciated.
-
-> **Note** 2 right now only Nurbs path is implemented. Bezier should be similar but atm it is commented out since I haven't had the chance to test it. Contributions are appreciated.
 
 
 # About
 
 This repo contains Scripts to turn Blender's Bezier or Nurbs-Path curve's into Unity's Cinemachine waypoints (smooth path). 
-Specifically, it contains a script that can turn Blender's curves data points into a json file. 
-It also contains Unity scripts to read said json file and create a cinemachine dolly track inside Unity.
+
+Specifically, it contains a script that can turn Blender's curve data points into a json file. 
+It also contains Unity scripts to read said json file, and turn the data points into Unity's Vector3s to create a cinemachine dolly track inside Unity. 
+
+> **Note** 1 This code is fully functional but pretty messy right now. Any contributions would be appreciated.
+
+> **Note** 2 right now only Nurbs path is implemented. Bezier should be similar but atm it is commented out since I haven't had the chance to test it. Contributions are appreciated.
 
 # How To use
 
